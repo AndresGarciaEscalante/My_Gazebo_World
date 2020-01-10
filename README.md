@@ -13,6 +13,8 @@ For this project used the following programs:
 The home structure from the project was built with the following home plan found on internet:  
 ![](images/Casa.png)
 
+Image link: https://lecidef.com/wp-content/uploads/2018/03/Galer%C3%ADa-de-Planos-%E2%80%93-Casas-Prefabricadas-FuturCasas.com.png
+
 The project tried to mimics all the details from the original plan just taking into account the main structure as shown in the following image: 
 ![](images/Basic_sketch_world.png)
 
