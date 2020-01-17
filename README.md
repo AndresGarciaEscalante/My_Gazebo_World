@@ -1,9 +1,8 @@
 # My_Gazebo_World
 ## Development of a World in Gazebo from scratch
-## Andres Ricardo Garcia Escalante
 
 ## Setting up the enviroment:
-For this project used the following programs:
+For this project the following set up was used:
 - Ubuntu 16.04 LTS OS
 - Gazebo 7.9
 - C++
@@ -15,7 +14,7 @@ The home structure from the project was built with the following home plan found
 
 Image link: https://lecidef.com/wp-content/uploads/2018/03/Galer%C3%ADa-de-Planos-%E2%80%93-Casas-Prefabricadas-FuturCasas.com.png
 
-The project tried to mimics all the details from the original plan just taking into account the main structure as shown in the following image: 
+The project tries to mimics all the details from the original plan just taking into account the main structure as shown in the following image: 
 ![](images/Basic_sketch_world.png)
 
 The final Design of the home structure has the following features:
